@@ -2,9 +2,7 @@
 Adds a custom field to UserForms which allows you to select a
 list from campaign monitor, set custom fields and subscribe on submission.
 
-Thank to |mylesthedev] for the original SilverStripe 3 version.
-
-For a SilverStripe 3.x compatible version, please use a 2.x release
+Thank to [mylesthedev](https://github.com/mylesthedev) for the original [SilverStripe 3 version](https://github.com/mylesthedev/campaign-monitor-userform).
 
 ### Installation
 Via composer
