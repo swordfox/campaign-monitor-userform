@@ -1,7 +1,7 @@
 {
     "name": "swordfox/campaign-monitor-userform",
     "description": "Custom Userform Field which integrates with Campaign Monitor",
-    "type": "silverstripe-module",
+    "type": "silverstripe-vendormodule",
     "homepage": "https://github.com/swordfox/campaign-monitor-userform",
     "keywords": [
         "silverstripe",
